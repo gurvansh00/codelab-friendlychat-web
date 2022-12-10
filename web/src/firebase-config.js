@@ -7,7 +7,12 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  apiKey: "AIzaSyBoBDfhDGU-SM2K4q9ZUpQUNta2DZmZZ60",
+  authDomain: "athena-c87e1.firebaseapp.com",
+  projectId: "athena-c87e1",
+  storageBucket: "athena-c87e1.appspot.com",
+  messagingSenderId: "258653281543",
+  appId: "1:258653281543:web:0f1b82fd87d3b03d2339a2"
 };
 
 export function getFirebaseConfig() {
